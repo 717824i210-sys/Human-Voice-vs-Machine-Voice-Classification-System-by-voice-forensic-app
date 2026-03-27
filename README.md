@@ -82,8 +82,7 @@ The system supports **live audio input** via microphone:
 ## ⚙️ Tech Stack
 - 🐍 Python  
 - 📊 Scikit-learn  
-- 🎧 Librosa  
-- 🌐 Flask  
+- 🎧 Librosa    
 - 🤖 TensorFlow / Keras  
 - 🛠️ Joblib  
 
